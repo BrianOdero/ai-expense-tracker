@@ -53,6 +53,8 @@ export const OnboardingStyles = () =>
             alignItems: "center"
         },
         onboardingButtonColor:{
-            color: "white"
+            color: "white",
+            fontWeight: "bold",
+            fontSize: 16            
         }
     })
